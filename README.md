@@ -1,2 +1,2 @@
 # shopping-cart
-Using React and Redux for basic shopping cart app
+Following tutorial for using React and Redux for basic shopping cart app.
